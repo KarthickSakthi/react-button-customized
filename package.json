@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KarthickSakthi/react-custom-button.git"
+    "url": "git+https://github.com/KarthickSakthi/react-button-customized.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
